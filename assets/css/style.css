@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#layout {
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+}
+
+#layout_footer {
+    min-height: 10vh;
+}
+
+#descricao {
+    text-align: justify;
+}
+
+i {
+    font-size: 1.5em;
+}
